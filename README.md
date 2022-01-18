@@ -1,4 +1,4 @@
-The big picture: 
+Project overview:
 
 ![plot](TweetAnalyser.png)
 
