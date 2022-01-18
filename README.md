@@ -1,6 +1,6 @@
 The big picture: 
 
-![Alt text](TweetAnalyser.jpg?raw=true "Title")
+![plot](TweetAnalyser.png)
 
 
 # Running the application
